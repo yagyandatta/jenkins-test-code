@@ -1,4 +1,4 @@
 echo "jenkinks is working fine"
 whoami
-date
+ifconfig
 echo "bye...."
