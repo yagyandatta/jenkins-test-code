@@ -1,3 +1,3 @@
-cp -f * /var/www/html/
+sudo cp -f * /var/www/html/
 
 echo "jenkinks is working fine"
